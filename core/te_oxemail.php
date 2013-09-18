@@ -1,6 +1,6 @@
 <?php
 /**
- *    This file is part of Order-Manage List Module for OXID eShop CE/PE/EE.
+ *    This file is part of Module for OXID eShop CE/PE/EE.
  *
  *    Ofree software: you can redistribute it and/or modify
  *    it under the terms of the MIT License.
